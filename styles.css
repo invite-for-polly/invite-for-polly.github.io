@@ -50,9 +50,9 @@ body {
 }
 
 #no-button {
-    position: absolute;
+    position: fixed;
     margin-left: 150px;
-    transition: 0.5s;
+    transition: all 0.2s ease;
 }
 
 #yes-button {
